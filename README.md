@@ -1,1 +1,1 @@
-# Python-wizualizacje
+# Wizualizacje danych w języku Python
